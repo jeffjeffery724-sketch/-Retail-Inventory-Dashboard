@@ -42,20 +42,6 @@ Opening Stock vs. Closing Stock
 A donut chart representing inventory movement and stock utilization.
 Product Distribution
 A pie chart showing inventory distribution across products.
-🔹 Sales & Product Performance
-Revenue vs Units Sold
-Displays revenue relationship with units sold to identify top-performing items.
-Profit Gauge Chart
-A gauge visual showcasing total profit achieved (63.76) in comparison to the maximum expected range.
-
-Product Performance Table
-A tabular view listing:
-
-Product Name
-Profit
-Units Sold
-
-This helps identify top sellers (e.g., Desk Organizer, Zip Jacket) and low-performing items.
 
 ## 🛠️ Technologies Used
 
