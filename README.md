@@ -1,4 +1,4 @@
-## -Retail-Inventory-Dashboard
+## 📊Retail-Inventory-Dashboard
 
 This project presents an interactive Retail Inventory Dashboard designed to analyze and visualize key metrics related to product stock levels, profitability, revenue, and category performance.
 The dashboard provides a complete overview of the inventory lifecycle—from stock availability to sales and profit insights—helping users make data-driven decisions for better inventory management.
