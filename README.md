@@ -72,17 +72,7 @@ GitHub – For project hosting and documentation
 ✔ Easy-to-read interactive visuals
 ✔ Clean, dark-themed professional UI
 
-## 🚀 How to Use
 
-Clone this repository: git clone https://github.com/your-username/your-repo-name.git
-Open the Power BI file (.pbix) in Power BI Desktop.
-Refresh the dataset or replace it with your own inventory data.
-Publish to Power BI Service if you want to share it online.
-
-## 📸 Dashboard Preview
-
-(Include your screenshot here for GitHub display)
-![Retail Inventory Dashboard](dashboard.png)
 
 ## 🤝 Contributions
 
